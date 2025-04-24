@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 local api = vim.api
 local fn = vim.fn
 local fs = vim.fs

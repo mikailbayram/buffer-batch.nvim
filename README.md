@@ -4,6 +4,9 @@
 
 A Neovim plugin to collect buffers, paste them together, copy their contents to the clipboard, and even copy the contents of all files in a folder—perfect for code review, sharing, or documentation workflows.
 
+## Demo
+
+[Demo Video](demo.mov)
 
 ## ✨ Features
 
@@ -96,10 +99,6 @@ filesystem = {
 3. In your target buffer, use `<leader>bp` or `:BufferBatchPaste` to paste all.
 4. Use `<leader>by` or `:BufferBatchCopy` to copy all batched buffers to your clipboard.
 5. Use `:CopyFolderToBuffer` or `:CopyFolderToClipboard` to batch all files in a folder.
-
-## Screenshots
-
-Add GIFs or screenshots here to show off your workflow!
 
 ## License
 
