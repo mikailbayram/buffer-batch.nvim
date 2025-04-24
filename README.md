@@ -4,9 +4,8 @@
 
 A Neovim plugin to collect buffers, paste them together, copy their contents to the clipboard, and even copy the contents of all files in a folder—perfect for code review, sharing, or documentation workflows.
 
-## Demo
-
-[Demo Video](demo.mov)
+##  Demo
+![Demo](demo.gif)
 
 ## ✨ Features
 
